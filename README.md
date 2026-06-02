@@ -13,7 +13,7 @@ Building practical security tools focused on privacy, detection, and real-world 
 * Secure systems and API design
 * PII, secrets, and data leakage detection
 * Log analysis and threat detection
-* Turning security ideas into working tools
+* Designing and building practical security tools
 
 ---
 
